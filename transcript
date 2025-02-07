@@ -1,0 +1,230 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.dou
+# Cannot open macro file: runlab.dou
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:38 on Jun 03,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 10:42:39 on Jun 03,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:39 on Jun 03,2024
+# vlog -reportprogress 300 ./LFSR6.sv 
+# -- Compiling module LFSR6
+# 
+# Top level modules:
+# 	LFSR6
+# End time: 10:42:39 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:39 on Jun 03,2024
+# vlog -reportprogress 300 ./LFSR6_testbench.sv 
+# -- Compiling module LFSR6_testbench
+# 
+# Top level modules:
+# 	LFSR6_testbench
+# End time: 10:42:39 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:39 on Jun 03,2024
+# vlog -reportprogress 300 ./detect_collision.sv 
+# -- Compiling module detect_collision
+# -- Compiling module detect_collision_testbench
+# 
+# Top level modules:
+# 	detect_collision_testbench
+# End time: 10:42:39 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:39 on Jun 03,2024
+# vlog -reportprogress 300 ./detect_score.sv 
+# -- Compiling module detect_score
+# 
+# Top level modules:
+# 	detect_score
+# End time: 10:42:39 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:39 on Jun 03,2024
+# vlog -reportprogress 300 ./led_matrix_driver.sv 
+# -- Compiling module led_matrix_driver
+# 
+# Top level modules:
+# 	led_matrix_driver
+# End time: 10:42:39 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:40 on Jun 03,2024
+# vlog -reportprogress 300 ./bird.sv 
+# -- Compiling module bird
+# -- Compiling module bird_testbench
+# 
+# Top level modules:
+# 	bird_testbench
+# End time: 10:42:40 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:40 on Jun 03,2024
+# vlog -reportprogress 300 ./bird_bottom.sv 
+# -- Compiling module bird_bottom
+# -- Compiling module bird_bottom_testbench
+# 
+# Top level modules:
+# 	bird_bottom_testbench
+# End time: 10:42:40 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:40 on Jun 03,2024
+# vlog -reportprogress 300 ./bird_init.sv 
+# -- Compiling module bird_init
+# -- Compiling module bird_testbench_init
+# 
+# Top level modules:
+# 	bird_testbench_init
+# End time: 10:42:40 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:40 on Jun 03,2024
+# vlog -reportprogress 300 ./bird_top.sv 
+# -- Compiling module bird_top
+# -- Compiling module bird_top_testbench
+# 
+# Top level modules:
+# 	bird_top_testbench
+# End time: 10:42:40 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:40 on Jun 03,2024
+# vlog -reportprogress 300 ./pipe.sv 
+# -- Compiling module pipe
+# -- Compiling module pipe_testbench
+# 
+# Top level modules:
+# 	pipe_testbench
+# End time: 10:42:40 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:40 on Jun 03,2024
+# vlog -reportprogress 300 ./pipe_init.sv 
+# -- Compiling module pipe_init
+# -- Compiling module pipe_init_testbench
+# 
+# Top level modules:
+# 	pipe_init_testbench
+# End time: 10:42:40 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:42:41 on Jun 03,2024
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 10:42:41 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work DE1_SoC_testbench 
+# Start time: 10:42:41 on Jun 03,2024
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# Loading work.clock_divider
+# Loading work.bird_top
+# Loading work.bird
+# Loading work.bird_init
+# Loading work.bird_bottom
+# Loading work.LFSR6
+# Loading work.pipe_init
+# Loading work.pipe
+# Loading work.detect_collision
+# Loading work.detect_score
+# ** Error: (vsim-3033) ./DE1_SoC.sv(186): Instantiation of 'hex_counter' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dei File: ./DE1_SoC.sv
+#         Searched libraries:
+#             C:/369/FlappyBird/work
+# ** Error: (vsim-3033) ./DE1_SoC.sv(187): Instantiation of 'hex_counter' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dei File: ./DE1_SoC.sv
+#         Searched libraries:
+#             C:/369/FlappyBird/work
+# ** Error: (vsim-3033) ./DE1_SoC.sv(188): Instantiation of 'hex_counter' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /DE1_SoC_testbench/dei File: ./DE1_SoC.sv
+#         Searched libraries:
+#             C:/369/FlappyBird/work
+# Loading work.led_matrix_driver
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runlab.do PAUSED at line 33
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:43:06 on Jun 03,2024
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 10:43:06 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:43:06 on Jun 03,2024
+# vlog -reportprogress 300 ./LFSR6.sv 
+# -- Compiling module LFSR6
+# 
+# Top level modules:
+# 	LFSR6
+# End time: 10:43:06 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:43:06 on Jun 03,2024
+# vlog -reportprogress 300 ./LFSR6_testbench.sv 
+# -- Compiling module LFSR6_testbench
+# 
+# Top level modules:
+# 	LFSR6_testbench
+# End time: 10:43:06 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:43:06 on Jun 03,2024
+# vlog -reportprogress 300 ./detect_collision.sv 
+# -- Compiling module detect_collision
+# -- Compiling module detect_collision_testbench
+# 
+# Top level modules:
+# 	detect_collision_testbench
+# End time: 10:43:06 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:43:06 on Jun 03,2024
+# vlog -reportprogress 300 ./detect_score.sv 
+# -- Compiling module detect_score
+# 
+# Top level modules:
+# 	detect_score
+# End time: 10:43:06 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 10:43:07 on Jun 03,2024
+# vlog -reportprogress 300 ./hex_counter.sv 
+# -- Compiling module hex_counter
+# ** Error: ./hex_counter.sv(19): (vlog-2110) Illegal reference to net "count_this".
+# ** Error: ./hex_counter.sv(21): (vlog-2110) Illegal reference to net "count_this".
+# ** Error: ./hex_counter.sv(22): (vlog-2110) Illegal reference to net "out_left".
+# ** Error: ./hex_counter.sv(25): (vlog-2110) Illegal reference to net "count_this".
+# ** Error: ./hex_counter.sv(26): (vlog-2110) Illegal reference to net "out_left".
+# -- Compiling module hex_counter_testbench
+# End time: 10:43:07 on Jun 03,2024, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+# ** Error: C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 13
+# C:/intelFPGA_lite/17.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./hex_counter.sv""
+# End time: 10:44:03 on Jun 03,2024, Elapsed time: 0:01:22
+# Errors: 3, Warnings: 0

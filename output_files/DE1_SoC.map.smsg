@@ -1,0 +1,23 @@
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Warning (10268): Verilog HDL information at bird.sv(15): always construct contains both blocking and non-blocking assignments File: C:/369/FlappyBird/bird.sv Line: 15
+Warning (10268): Verilog HDL information at bird_bottom.sv(17): always construct contains both blocking and non-blocking assignments File: C:/369/FlappyBird/bird_bottom.sv Line: 17
+Warning (10268): Verilog HDL information at bird_init.sv(16): always construct contains both blocking and non-blocking assignments File: C:/369/FlappyBird/bird_init.sv Line: 16
+Warning (10268): Verilog HDL information at bird_top.sv(15): always construct contains both blocking and non-blocking assignments File: C:/369/FlappyBird/bird_top.sv Line: 15
+Warning (10030): Net "red_array[7][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[7][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[6][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[6][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[5][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[5][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[4][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[4][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[3][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[3][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[2][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[2][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[1][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[1][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[0][7]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10030): Net "red_array[0][5..0]" at DE1_SoC.sv(8) has no driver or initial value, using a default initial value '0' File: C:/369/FlappyBird/DE1_SoC.sv Line: 8
+Warning (10034): Output port "LEDR" at DE1_SoC.sv(4) has no driver File: C:/369/FlappyBird/DE1_SoC.sv Line: 4
+Warning (10034): Output port "GPIO_0[11..0]" at DE1_SoC.sv(7) has no driver File: C:/369/FlappyBird/DE1_SoC.sv Line: 7
